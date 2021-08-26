@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JesusArellano00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, soy @JesusArellano00
+- 👀 Me interesan mucho los temas sobre los videojuegos y la música
+- 🌱 Actualmente estoy cursando la carrera de sistemas computacionales en el Instituto Tecnologico de Tijuana ;)
+- 💞️ Me gusta el Phở
+- 📫 jesus.arellano18@tectijuana.edu.mx
+
 
 | Hora  | LUNES                                        |                    MARTES                    |                   MIÉRCOLES                  |                    JUEVES                    |                    VIERNES                   |
 |-------|----------------------------------------------|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
