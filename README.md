@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy cursando la carrera de sistemas computacionales en el Instituto Tecnologico de Tijuana ;)
 - 💞️ Me gusta el Phở
 - 📫 jesus.arellano18@tectijuana.edu.mx
-
+- 🎒 Realizando residencia profesional en Grupo TERSA
 
 | Hora  | LUNES                                        |                    MARTES                    |                   MIÉRCOLES                  |                    JUEVES                    |                    VIERNES                   |
 |-------|----------------------------------------------|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
